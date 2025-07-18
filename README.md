@@ -25,7 +25,7 @@ This project analyzes a fictional pizza sales dataset using SQL to extract valua
 - `data/` – (Optional) CSV files like orders, pizzas, categories
 
 ## 📄 PDF Report
-[Click here to view the PDF](Pizza_Sales_Analysis.pdf)
+[Click here to view the PDF](Pizza_Sales_Analysis.pdf.pdf)
 
 ## 🔗 How to Use
 1. Import the pizza dataset into your SQL environment.
