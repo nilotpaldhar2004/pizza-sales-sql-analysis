@@ -22,7 +22,7 @@ This project analyzes a fictional pizza sales dataset using SQL to extract valua
 - `queries.sql` – All SQL queries used in the analysis
 - `Pizza_Sales_Analysis.pdf` – Visual report of insights
 - `README.md` – Project summary
-- `data/` – (Optional) CSV files like orders, pizzas, categories
+- `data` – CSV files  orders, pizzas, orders_details
 
 ## 📄 PDF Report
 [Click here to view the PDF](Pizza_Sales_Analysis.pdf.pdf)
