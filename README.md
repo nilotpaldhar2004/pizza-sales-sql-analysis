@@ -8,7 +8,7 @@ This project analyzes a fictional pizza sales dataset using SQL to extract valua
 - Help optimize marketing, inventory, and staffing decisions
 
 ## 🛠️ Tools Used
-- SQL (MySQL / PostgreSQL)
+- SQL (MySQL)
 - Excel (for raw data exploration)
 - Canva / PowerPoint (for PDF visualization)
 
@@ -25,7 +25,7 @@ This project analyzes a fictional pizza sales dataset using SQL to extract valua
 - `data` – CSV files  orders, pizzas, orders_details
 
 ## 📄 PDF Report
-[Click here to view the PDF](Pizza_Sales_Analysis.pdf.pdf)
+[Click here to view the PDF](Pizza_Sales_Analysis.pdf)
 
 ## 🔗 How to Use
 1. Import the pizza dataset into your SQL environment.
